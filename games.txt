@@ -1,0 +1,8 @@
+#You can use this file for the purpose of your self-assessment exercise.  
+#In 100-250 words, answer the question: what did I learn in the games unit?
+
+In this game unit I finaly learn how to make an Ia impacted by the environement which leads me a bit closer to how an IA works in a video game
+As a chess player understanding how IA works for chess and How they calculate how good of a position it is 
+using utility and everything describe by this assignement is really interesting . 
+I am curious how to use this with an IA that learns through deep learning to see how to do both.
+Countering the exponential part of the algorithms through recurciveness and smart heuristic isreally cool.
